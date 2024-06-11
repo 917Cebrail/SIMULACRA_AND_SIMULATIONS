@@ -1,0 +1,5 @@
+﻿  Simulacra_and_Simulation.cpp
+c:\users\cebrail\source\repos\simulacra_and_simulation\simulacra_and_simulation\simulacra_and_simulation.cpp(22): warning C4101: 'result': yerel değişken başvurusu kaldırıldı
+c:\users\cebrail\source\repos\simulacra_and_simulation\simulacra_and_simulation\simulacra_and_simulation.cpp(22): warning C4101: 'sel1': yerel değişken başvurusu kaldırıldı
+c:\users\cebrail\source\repos\simulacra_and_simulation\simulacra_and_simulation\simulacra_and_simulation.cpp(22): warning C4101: 'sel2': yerel değişken başvurusu kaldırıldı
+  Simulacra_and_Simulation.vcxproj -> C:\Users\Cebrail\source\repos\Simulacra_and_Simulation\Debug\Simulacra_and_Simulation.exe
