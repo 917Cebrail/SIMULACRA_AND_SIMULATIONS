@@ -16,4 +16,4 @@
 <p>Matrix havası vermekte. Tabii isterseniz de kodları konsoldan direkt girebilirsiniz. Kodların yazımı da oldukça basit ve iş kısaltıcı türden.</p>
 <p>Mesela "SUM_A+B_C=0" kodunda A ile B yi topluyor ve sonuca ekleme yapmıyor. İşte, bu kadar basit iki sayıyı toplayıp ekrana yazdırmak.</p>
 <h2>13.606.2024 3.Edition Verisyonu</h2>
-<p>Bu versiyon, .sl uzantılı kodların işlevselliğini arttırmıştır. <b>input, if, check gibi komutlar da gelmiştir. <b>RAM kullandırtmak için gayet güzel sebepler veren komutlar da var.</p>
+<p>Bu versiyon, .sl uzantılı kodların işlevselliğini arttırmıştır. <br>input, if, check gibi komutlar da gelmiştir. <br>RAM kullandırtmak için gayet güzel sebepler veren komutlar da var.</p>
