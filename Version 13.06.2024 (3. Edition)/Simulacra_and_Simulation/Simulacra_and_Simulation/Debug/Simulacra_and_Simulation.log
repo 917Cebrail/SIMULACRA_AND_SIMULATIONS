@@ -1,0 +1,4 @@
+﻿  Simulacra_and_Simulation.cpp
+c:\users\cebrail\source\repos\simulacra_and_simulation\simulacra_and_simulation\executive.h(78): warning C4244: '=': 'int16_t' - 'uint8_t' dönüşümü; veri kaybı olabilir
+c:\users\cebrail\source\repos\simulacra_and_simulation\simulacra_and_simulation\executive.h(81): warning C4244: '=': 'int16_t' - 'uint8_t' dönüşümü; veri kaybı olabilir
+  Simulacra_and_Simulation.vcxproj -> C:\Users\Cebrail\source\repos\Simulacra_and_Simulation\Debug\Simulacra_and_Simulation.exe
