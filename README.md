@@ -15,7 +15,7 @@
 <p>Bu versiyonda artık SimLang diye bir dil var, kısaltması .sl olan bu dil, girdiğiniz kodları çalıştırıyor (tabii ki de konsolda).</p>
 <p>Matrix havası vermekte. Tabii isterseniz de kodları konsoldan direkt girebilirsiniz. Kodların yazımı da oldukça basit ve iş kısaltıcı türden.</p>
 <p>Mesela "SUM_A+B_C=0" kodunda A ile B yi topluyor ve sonuca ekleme yapmıyor. İşte, bu kadar basit iki sayıyı toplayıp ekrana yazdırmak.</p>
-<h2>13.606.2024 3.Edition Verisyonu</h2>
+<h2>13.06.2024 3.Edition Verisyonu</h2>
 <p>Bu versiyon, .sl uzantılı kodların işlevselliğini arttırmıştır. <br>input, if, check gibi komutlar da gelmiştir. <br>RAM kullandırtmak için gayet güzel sebepler veren komutlar da var.</p>
 <h2>14.06.2024 Versiyonu</h2>
 <p>Yeni komutlar eklendi ve DONUT eklendi. Donut dönebiliyor ama biraz kötü bir şekilde dönüyor.</p>
