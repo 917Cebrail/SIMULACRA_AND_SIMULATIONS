@@ -1,0 +1,34 @@
+﻿  Simulacra.cpp
+  Simulacra_and_Simulation.cpp
+c:\users\cebrail\source\repos\simulacra_and_simulation\simulacra_and_simulation\donut.h(13): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+c:\users\cebrail\source\repos\simulacra_and_simulation\simulacra_and_simulation\donut.h(20): warning C4305: '+=': 'double' iken 'float' olarak kesildi
+c:\users\cebrail\source\repos\simulacra_and_simulation\simulacra_and_simulation\donut.h(21): warning C4305: '+=': 'double' iken 'float' olarak kesildi
+c:\users\cebrail\source\repos\simulacra_and_simulation\simulacra_and_simulation\executive.h(83): warning C4244: '=': 'int16_t' - 'uint8_t' dönüşümü; veri kaybı olabilir
+c:\users\cebrail\source\repos\simulacra_and_simulation\simulacra_and_simulation\executive.h(86): warning C4244: '=': 'int16_t' - 'uint8_t' dönüşümü; veri kaybı olabilir
+c:\users\cebrail\source\repos\simulacra_and_simulation\simulacra_and_simulation\simulacra_and_simulation.cpp(146): warning C4305: '+=': 'double' iken 'float' olarak kesildi
+c:\users\cebrail\source\repos\simulacra_and_simulation\simulacra_and_simulation\simulacra_and_simulation.cpp(147): warning C4305: '+=': 'double' iken 'float' olarak kesildi
+c:\program files\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(2949): warning C4244: '=': 'const _Ty' - '_Ty' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+  c:\program files\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(2972): note: derlenen şablon işlevi '_OutIt *std::_Fill_n_unchecked2<_Ty*,int,int>(_OutIt,_Diff,const int &,std::false_type)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _OutIt=float *,
+              _Ty=float,
+              _Diff=int
+          ]
+  c:\users\cebrail\source\repos\simulacra_and_simulation\simulacra_and_simulation\donut.h(18): note: derlenen şablon işlevi '_OutIt *std::fill_n<float*,int,int>(_OutIt,_Diff,const _Ty &)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _OutIt=float *,
+              _Diff=int,
+              _Ty=int
+          ]
+  Kod Üretiliyor...
+  Simulacra_and_Simulation.vcxproj -> C:\Users\Cebrail\source\repos\Simulacra_and_Simulation\Debug\Simulacra_and_Simulation.exe
