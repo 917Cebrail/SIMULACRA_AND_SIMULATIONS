@@ -19,3 +19,5 @@
 <p>Bu versiyon, .sl uzantılı kodların işlevselliğini arttırmıştır. <br>input, if, check gibi komutlar da gelmiştir. <br>RAM kullandırtmak için gayet güzel sebepler veren komutlar da var.</p>
 <h2>14.06.2024 Versiyonu</h2>
 <p>Yeni komutlar eklendi ve DONUT eklendi. Donut dönebiliyor ama biraz kötü bir şekilde dönüyor.</p>
+<h2>14.06.2024 2. Edition Versiyonu</h2>
+<p>Bu versiyonda Latince "Görüntüleme" anlamına gelen Simulacra, size basit bir resim formatı sunar.</p>
