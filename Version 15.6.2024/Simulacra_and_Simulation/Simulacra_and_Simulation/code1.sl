@@ -1,0 +1,4 @@
+INPUT_A
+INPUT_B
+IF(A=B)
+CHECK(C=0)
