@@ -23,3 +23,6 @@
 <p>Bu versiyonda Latince "Görüntüleme" anlamına gelen Simulacra, size basit bir resim formatı sunar.</p>
 <h2>15.06.2024 Versiyonu</h2>
 <p>Quick Sorting Algoritması eklendi ve böylelikle dizileri artık büyükten küçüğe sıralayabilirsiniz.</p>
+<h2>15.06.2024 2. Edition Versiyonu</h2>
+<p>Simulacra fonksiyonu iyileştirildi ve artık .sli adlı dosya uzantılarıyla çalışıyor</p>
+<p>Artık konsolda fontları değiştirebiliyor ve kullanabiliyorsunuz</p>
