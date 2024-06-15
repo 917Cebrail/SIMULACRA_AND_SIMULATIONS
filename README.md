@@ -21,3 +21,5 @@
 <p>Yeni komutlar eklendi ve DONUT eklendi. Donut dönebiliyor ama biraz kötü bir şekilde dönüyor.</p>
 <h2>14.06.2024 2. Edition Versiyonu</h2>
 <p>Bu versiyonda Latince "Görüntüleme" anlamına gelen Simulacra, size basit bir resim formatı sunar.</p>
+<h2>15.06.2024 Versiyonu</h2>
+<p>Quick Sorting Algoritması eklendi ve böylelikle dizileri artık büyükten küçüğe sıralayabilirsiniz.</p>
