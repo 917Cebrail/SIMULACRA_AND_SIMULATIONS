@@ -26,3 +26,5 @@
 <h2>15.06.2024 2. Edition Versiyonu</h2>
 <p>Simulacra fonksiyonu iyileştirildi ve artık .sli adlı dosya uzantılarıyla çalışıyor</p>
 <p>Artık konsolda fontları değiştirebiliyor ve kullanabiliyorsunuz</p>
+<h2>16.06.2024 Versiyonu</h2>
+<p>CMD Komutlarını artık çalıştırabiliyor ve sonuçlarını gösterebiliyor</p>
