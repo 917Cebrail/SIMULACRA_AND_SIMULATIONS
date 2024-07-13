@@ -1,4 +1,4 @@
-# 8-Bit-CPU-Simulation
+# Simulacra & Simulations
 <h2> 11-12.06.2024 Versiyonu</h2>
 <p>8 Bitlik bir işlemcinin çalışma mantığını anlatmakta 'Simulacra & Simulations'</p>
 <p>Bir yandan da size, istediğiniz gibi değiştirebileceğiniz ve kullanabileceğiniz bir 'Programlama Dili' sunar</p>
