@@ -32,3 +32,5 @@
 <p>Bu versiyonda artık .slh adlı dosa uzantılarıyla veriler saklanabiliyor, tabii şimdilik az veri taşıyorlar ama daha sonraki versiyonlarında daha kompakt hale getirilecek.</p>
 <h2>11.07.2024 Versiyonu</h2>
 <p>Bu versiyonda artık kullanıcı iletişimleri arttırıldı ve 'Release' düzenine geçildi. Artık bu bir programdan fazlası !</p>
+<h2>13.07.2024 Versiyonu</h2>
+<p>2 Adet yeni komut eklendi ve başlangıç arayüzü değiştirildi.</p>
