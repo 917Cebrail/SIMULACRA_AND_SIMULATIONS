@@ -1,0 +1,38 @@
+﻿  Simulacra_and_Simulation.cpp
+c:\users\hp\desktop\ss\simulacra_and_simulation\simulacra_and_simulation\donut.h(13): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+c:\users\hp\desktop\ss\simulacra_and_simulation\simulacra_and_simulation\donut.h(20): warning C4305: '+=': 'double' iken 'float' olarak kesildi
+c:\users\hp\desktop\ss\simulacra_and_simulation\simulacra_and_simulation\donut.h(21): warning C4305: '+=': 'double' iken 'float' olarak kesildi
+c:\users\hp\desktop\ss\simulacra_and_simulation\simulacra_and_simulation\executive.h(83): warning C4244: '=': 'int16_t' - 'uint8_t' dönüşümü; veri kaybı olabilir
+c:\users\hp\desktop\ss\simulacra_and_simulation\simulacra_and_simulation\executive.h(86): warning C4244: '=': 'int16_t' - 'uint8_t' dönüşümü; veri kaybı olabilir
+c:\users\hp\desktop\ss\simulacra_and_simulation\simulacra_and_simulation\simulacra_and_simulation.cpp(150): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+c:\users\hp\desktop\ss\simulacra_and_simulation\simulacra_and_simulation\simulacra_and_simulation.cpp(183): warning C4305: '+=': 'double' iken 'float' olarak kesildi
+c:\users\hp\desktop\ss\simulacra_and_simulation\simulacra_and_simulation\simulacra_and_simulation.cpp(184): warning C4305: '+=': 'double' iken 'float' olarak kesildi
+c:\program files\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(2949): warning C4244: '=': 'const _Ty' - '_Ty' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+  c:\program files\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(2972): note: derlenen şablon işlevi '_OutIt *std::_Fill_n_unchecked2<_Ty*,int,int>(_OutIt,_Diff,const int &,std::false_type)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _OutIt=float *,
+              _Ty=float,
+              _Diff=int
+          ]
+  c:\users\hp\desktop\ss\simulacra_and_simulation\simulacra_and_simulation\donut.h(18): note: derlenen şablon işlevi '_OutIt *std::fill_n<float*,int,int>(_OutIt,_Diff,const _Ty &)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _OutIt=float *,
+              _Diff=int,
+              _Ty=int
+          ]
+  Kod üretiliyor
+  1 of 508 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  Simulacra_and_Simulation.vcxproj -> C:\Users\hp\Desktop\SS\Simulacra_and_Simulation\Release\Simulacra_and_Simulation.exe
