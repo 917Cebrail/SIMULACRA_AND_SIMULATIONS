@@ -34,3 +34,6 @@
 <p>Bu versiyonda artık kullanıcı iletişimleri arttırıldı ve 'Release' düzenine geçildi. Artık bu bir programdan fazlası !</p>
 <h2>13.07.2024 Versiyonu</h2>
 <p>2 Adet yeni komut eklendi ve başlangıç arayüzü değiştirildi.</p>
+<h2>15.07.2024 Versiyonu</h2>
+<p>Bu versiyonda program daha kullanıcı dostu hale getirildi ve web güncellemesi getirildi.</p>
+<p>Web güncellemesi ile birlikte artık URL kullanarak tarayıcınızdan açabilir veya programın içindeki kısayollar ile istediğiniz web sitesine gidebilirsinin.</p>
